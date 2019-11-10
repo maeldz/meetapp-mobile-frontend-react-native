@@ -1,4 +1,4 @@
-# meetapp-mobile-frontend-reactjs
+# meetapp-mobile-frontend-react-native
 
 <p align="center">
 <img width="235" height="500" src="https://user-images.githubusercontent.com/54718471/66503794-45e6d980-ea9e-11e9-85aa-2f1f3128a74a.png">
